@@ -22,3 +22,7 @@ th{
 #sentence{
     font-family: 'Playball', cursive;
 }
+.card-img-top{
+    height: 220px;
+    width: 350px;
+}
