@@ -1,0 +1,24 @@
+body {
+    background-color: aquamarine;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  #quote{
+      color: rgb(238, 0, 52);
+  }
+  #name{
+      color: darkblue;
+  }
+  #story{
+    font-family: 'Kalam', cursive;
+  }
+h2{
+    color: darkgrey;
+}
+th{
+    text-align: left;
+}
+#sentence{
+    font-family: 'Playball', cursive;
+}
